@@ -1,0 +1,39 @@
+First file = ('C:/Users/Lyaden/Desktop/Иссл/newnewenw 10 06/cas 2/arch de steps/step 20.xls', 'XLS files (*.xls)')
+Second file = ('C:/Users/Lyaden/Desktop/Иссл/newnewenw 10 06/cas 2/arch de steps/step 15.xls', 'XLS files (*.xls)')
+Testes are equal
+First test: min = 11.417956168376913; med = 19.830477608553288; max = 25.989715925456558; mean = 19.66528208795738; std = 3.6193461476061817
+Second test: min = 11.646407929356473; med = 21.86861327801759; max = 26.744126035941928; mean = 20.575742426118914; std = 3.8695618952304875
+
+First file = ('C:/Users/Lyaden/Desktop/Иссл/newnewenw 10 06/cas 2/arch de steps/step 20.xls', 'XLS files (*.xls)')
+Second file = ('C:/Users/Lyaden/Desktop/Иссл/newnewenw 10 06/cas 2/arch de steps/step 10.xls', 'XLS files (*.xls)')
+Testes are equal
+First test: min = 11.417956168376913; med = 19.830477608553288; max = 25.989715925456558; mean = 19.66528208795738; std = 3.6193461476061817
+Second test: min = 11.299034604333173; med = 21.024938879936016; max = 27.394495990290746; mean = 20.136116566498977; std = 3.6319458420885353
+
+First file = ('C:/Users/Lyaden/Desktop/Иссл/newnewenw 10 06/cas 2/arch de steps/step 20.xls', 'XLS files (*.xls)')
+Second file = ('C:/Users/Lyaden/Desktop/Иссл/newnewenw 10 06/cas 2/arch de steps/step 5.xls', 'XLS files (*.xls)')
+Testes are equal
+First test: min = 11.417956168376913; med = 19.830477608553288; max = 25.989715925456558; mean = 19.66528208795738; std = 3.6193461476061817
+Second test: min = 11.79834252398679; med = 22.63339981230594; max = 30.413248883082264; mean = 21.470543009061295; std = 3.849832078792205
+
+__________________
+
+First file = ('C:/Users/Lyaden/Desktop/Иссл/newnewenw 10 06/cas 2/arch de steps/step 15.xls', 'XLS files (*.xls)')
+Second file = ('C:/Users/Lyaden/Desktop/Иссл/newnewenw 10 06/cas 2/arch de steps/step 10.xls', 'XLS files (*.xls)')
+Testes are equal
+First test: min = 11.646407929356473; med = 21.86861327801759; max = 26.744126035941928; mean = 20.575742426118914; std = 3.8695618952304875
+Second test: min = 11.299034604333173; med = 21.024938879936016; max = 27.394495990290746; mean = 20.136116566498977; std = 3.6319458420885353
+
+First file = ('C:/Users/Lyaden/Desktop/Иссл/newnewenw 10 06/cas 2/arch de steps/step 15.xls', 'XLS files (*.xls)')
+Second file = ('C:/Users/Lyaden/Desktop/Иссл/newnewenw 10 06/cas 2/arch de steps/step 5.xls', 'XLS files (*.xls)')
+Testes are equal
+First test: min = 11.646407929356473; med = 21.86861327801759; max = 26.744126035941928; mean = 20.575742426118914; std = 3.8695618952304875
+Second test: min = 11.79834252398679; med = 22.63339981230594; max = 30.413248883082264; mean = 21.470543009061295; std = 3.849832078792205
+
+___________________________
+
+First file = ('C:/Users/Lyaden/Desktop/Иссл/newnewenw 10 06/cas 2/arch de steps/step 10.xls', 'XLS files (*.xls)')
+Second file = ('C:/Users/Lyaden/Desktop/Иссл/newnewenw 10 06/cas 2/arch de steps/step 5.xls', 'XLS files (*.xls)')
+Testes are equal
+First test: min = 11.299034604333173; med = 21.024938879936016; max = 27.394495990290746; mean = 20.136116566498977; std = 3.6319458420885353
+Second test: min = 11.79834252398679; med = 22.63339981230594; max = 30.413248883082264; mean = 21.470543009061295; std = 3.849832078792205

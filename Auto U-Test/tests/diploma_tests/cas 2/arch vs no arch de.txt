@@ -1,0 +1,5 @@
+First file = ('C:/Users/Lyaden/Desktop/Иссл/newnewenw 10 06/cas 2/arch/de_mut.xls', 'XLS files (*.xls)')
+Second file = ('C:/Users/Lyaden/Desktop/Иссл/newnewenw 10 06/cas 2/no arch/de.xls', 'XLS files (*.xls)')
+First test is better, second - worse
+First test: min = 11.417956168376913; med = 19.830477608553288; max = 25.989715925456558; mean = 19.66528208795738; std = 3.6193461476061817
+Second test: min = 20.501288312228212; med = 31.892029855116277; max = 49.39861177512742; mean = 31.64655366504665; std = 7.000262335708812

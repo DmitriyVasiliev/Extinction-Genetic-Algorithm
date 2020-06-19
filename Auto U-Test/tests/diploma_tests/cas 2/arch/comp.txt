@@ -1,0 +1,17 @@
+First file = ('C:/Users/Lyaden/Desktop/Иссл/newnewenw 10 06/cas 2/arch/05_mut.xls', 'XLS files (*.xls)')
+Second file = ('C:/Users/Lyaden/Desktop/Иссл/newnewenw 10 06/cas 2/arch/de_mut.xls', 'XLS files (*.xls)')
+Testes are equal
+First test: min = 14.27887719586968; med = 21.08545860908564; max = 25.882382230378283; mean = 20.699431631835086; std = 3.20490348764295
+Second test: min = 11.417956168376913; med = 19.830477608553288; max = 25.989715925456558; mean = 19.66528208795738; std = 3.6193461476061817
+
+First file = ('C:/Users/Lyaden/Desktop/Иссл/newnewenw 10 06/cas 2/arch/05_mut.xls', 'XLS files (*.xls)')
+Second file = ('C:/Users/Lyaden/Desktop/Иссл/newnewenw 10 06/cas 2/arch/poly_mut.xls', 'XLS files (*.xls)')
+Testes are equal
+First test: min = 14.27887719586968; med = 21.08545860908564; max = 25.882382230378283; mean = 20.699431631835086; std = 3.20490348764295
+Second test: min = 14.178863819191626; med = 23.507845624250788; max = 34.706555005030765; mean = 23.325995420689896; std = 4.1367746805795065
+
+First file = ('C:/Users/Lyaden/Desktop/Иссл/newnewenw 10 06/cas 2/arch/de_mut.xls', 'XLS files (*.xls)')
+Second file = ('C:/Users/Lyaden/Desktop/Иссл/newnewenw 10 06/cas 2/arch/poly_mut.xls', 'XLS files (*.xls)')
+First test is better, second - worse
+First test: min = 11.417956168376913; med = 19.830477608553288; max = 25.989715925456558; mean = 19.66528208795738; std = 3.6193461476061817
+Second test: min = 14.178863819191626; med = 23.507845624250788; max = 34.706555005030765; mean = 23.325995420689896; std = 4.1367746805795065

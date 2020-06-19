@@ -1,0 +1,34 @@
+85 10 vs 99 20 -----------------
+First file = ('C:/Users/Lyaden/Desktop/Иссл/mainarch/cas 2/de + p + step + mut/cas_ 85 10, hybrid.xls', 'XLS files (*.xls)')
+Second file = ('C:/Users/Lyaden/Desktop/Иссл/mainarch/cas 2/de + p + step + mut/cas_99 20, hybrid.xls', 'XLS files (*.xls)')
+Testes are equal
+First test: min = 15.968491498911781; med = 21.525623986451045; max = 28.387439061006013; mean = 20.953433947053195; std = 3.0228329102183285
+Second test: min = 14.186967159639037; med = 20.91187147711135; max = 24.73785379653343; mean = 20.4062276087617; std = 2.9703613735480565
+First file = ('C:/Users/Lyaden/Desktop/Иссл/mainarch/cas 2/de + p + step + mut/DA 85 10 cas2.xls', 'XLS files (*.xls)')
+Second file = ('C:/Users/Lyaden/Desktop/Иссл/mainarch/cas 2/de + p + step + mut/DA 99 20 cas2.xls', 'XLS files (*.xls)')
+Testes are equal
+First test: min = 14.813304181131194; med = 22.207193488544725; max = 25.53968593578288; mean = 21.121868765492916; std = 2.670684750580229
+Second test: min = 11.417956168376913; med = 19.830477608553288; max = 25.989715925456558; mean = 19.66528208795738; std = 3.6193461476061817
+First file = ('C:/Users/Lyaden/Desktop/Иссл/mainarch/cas 2/de + p + step + mut/full DA 85 10 cas2.xls', 'XLS files (*.xls)')
+Second file = ('C:/Users/Lyaden/Desktop/Иссл/mainarch/cas 2/de + p + step + mut/full DA 99 20 cas2.xls', 'XLS files (*.xls)')
+Testes are equal
+First test: min = 14.583200153939318; med = 20.51225629255892; max = 24.762269093536958; mean = 20.37765559275393; std = 2.7135860936566987
+Second test: min = 13.006034149731141; med = 19.690171642919296; max = 22.51641365019662; mean = 19.13062996806763; std = 2.5456698677687255
+------------------------------------------------
+
+First file = ('C:/Users/Lyaden/Desktop/Иссл/mainarch/cas 2/de + p + step + mut/cas_99 20, hybrid.xls', 'XLS files (*.xls)')
+Second file = ('C:/Users/Lyaden/Desktop/Иссл/mainarch/cas 2/de + p + step + mut/DA 99 20 cas2.xls', 'XLS files (*.xls)')
+Testes are equal
+First test: min = 14.186967159639037; med = 20.91187147711135; max = 24.73785379653343; mean = 20.4062276087617; std = 2.9703613735480565
+Second test: min = 11.417956168376913; med = 19.830477608553288; max = 25.989715925456558; mean = 19.66528208795738; std = 3.6193461476061817
+First file = ('C:/Users/Lyaden/Desktop/Иссл/mainarch/cas 2/de + p + step + mut/cas_99 20, hybrid.xls', 'XLS files (*.xls)')
+Second file = ('C:/Users/Lyaden/Desktop/Иссл/mainarch/cas 2/de + p + step + mut/full DA 99 20 cas2.xls', 'XLS files (*.xls)')
+Testes are equal
+First test: min = 14.186967159639037; med = 20.91187147711135; max = 24.73785379653343; mean = 20.4062276087617; std = 2.9703613735480565
+Second test: min = 13.006034149731141; med = 19.690171642919296; max = 22.51641365019662; mean = 19.13062996806763; std = 2.5456698677687255
+First file = ('C:/Users/Lyaden/Desktop/Иссл/mainarch/cas 2/de + p + step + mut/DA 99 20 cas2.xls', 'XLS files (*.xls)')
+Second file = ('C:/Users/Lyaden/Desktop/Иссл/mainarch/cas 2/de + p + step + mut/full DA 99 20 cas2.xls', 'XLS files (*.xls)')
+Testes are equal
+First test: min = 11.417956168376913; med = 19.830477608553288; max = 25.989715925456558; mean = 19.66528208795738; std = 3.6193461476061817
+Second test: min = 13.006034149731141; med = 19.690171642919296; max = 22.51641365019662; mean = 19.13062996806763; std = 2.5456698677687255
+
